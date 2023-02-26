@@ -9,6 +9,6 @@ package git.service;
  *
  * @author Ghssissine
  */
-public class PersServ {
+public class VoiServ {
     
 }
